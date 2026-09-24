@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+
+.box{
+    display: inline;
+    width: 200px;
+    height: 200px;
+    background-color: bisque;
+}
+
+.square{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: cornflowerblue;
+    margin: 5px;
+}
+
+.circle{
+    width: 200px;
+    height: 200px;
+    background-color: paleturquoise;
+    padding: 20px;
+    border: 2px solid seagreen;
+}
