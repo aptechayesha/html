@@ -1,0 +1,17 @@
+ /* p::first-line{ 
+    background-color: bisque;
+ }
+
+p::first-letter{
+    font-size: 45px
+ }
+p::selection{
+    background-color: aquamarine;
+    color: aliceblue;
+}  */
+blockquote::before{
+    content: "Ayesha---";
+}
+blockquote::after{
+    content: "---Okasha";
+}
