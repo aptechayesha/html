@@ -1,0 +1,19 @@
+:root{
+    --bg-clr:rgb(240, 212, 240);
+    --font-clr:red;
+    
+}
+
+.link{
+    background-color:var(--bg-clr) ;
+    
+}
+
+.btn{
+    background-color: var(--bg-clr);
+    color: var(--font-clr);
+}
+.para{
+    background-color: var(--bg-clr);
+}
+    
