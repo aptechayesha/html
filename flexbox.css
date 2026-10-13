@@ -1,0 +1,38 @@
+.container{
+     display: flex;
+     flex-direction: row;
+    /* flex-direction: row-reverse;
+    flex-direction: column-reverse;
+    justify-content: flex-end;
+    justify-content: center;
+    justify-content: space-around;
+    justify-content: space-evenly; */ */
+    /* justify-content: space-between;
+    align-items: end;
+    align-items: center;
+    align-items: stretch; */
+    align-items: baseline;
+}
+
+.item{
+    width: 200px;
+    height: 200px;
+    margin: 5px;
+}
+
+.item-1{
+    background-color: rgb(180, 193, 204);
+    font-size: 45px;
+}
+.item-2{
+    background-color: rgb(138, 138, 113);
+    font-size: 66px;
+}
+.item-3{
+    background-color: rgb(184, 168, 146);
+    font-size: 36px;
+}
+.item-4{
+    background-color: rgb(236, 135, 135); 
+    font-size: 67px;
+}
